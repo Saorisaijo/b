@@ -1,5 +1,6 @@
 # Boletos 
 
+PRIMEIRO ACHAR O GIT BASH (BOTÃO ESQUERDO NA PASTA)
 
 git add -A  + enter   >>> aguardar processar
 
